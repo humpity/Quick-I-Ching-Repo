@@ -7,6 +7,6 @@ Quick I-Ching is a divination app.
 This app itself does not collect nor transmit any private data.
 
 However the app is ad supported which adheres to Google Mobile Ads
-policy.
+policies.
 
 
